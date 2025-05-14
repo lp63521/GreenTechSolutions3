@@ -1,0 +1,5 @@
+// script.js
+// (arquivo JS vazio por enquanto, pronto para futuras interações JS)
+console.log("GreenTech Solutions - Site carregado com sucesso.");
+
+
